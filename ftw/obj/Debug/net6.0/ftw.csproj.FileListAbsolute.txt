@@ -1,0 +1,15 @@
+C:\Users\79243\Desktop\ftw\ftw\bin\Debug\net6.0\ftw.exe
+C:\Users\79243\Desktop\ftw\ftw\bin\Debug\net6.0\ftw.deps.json
+C:\Users\79243\Desktop\ftw\ftw\bin\Debug\net6.0\ftw.runtimeconfig.json
+C:\Users\79243\Desktop\ftw\ftw\bin\Debug\net6.0\ftw.dll
+C:\Users\79243\Desktop\ftw\ftw\bin\Debug\net6.0\ftw.pdb
+C:\Users\79243\Desktop\ftw\ftw\obj\Debug\net6.0\ftw.csproj.AssemblyReference.cache
+C:\Users\79243\Desktop\ftw\ftw\obj\Debug\net6.0\ftw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79243\Desktop\ftw\ftw\obj\Debug\net6.0\ftw.AssemblyInfoInputs.cache
+C:\Users\79243\Desktop\ftw\ftw\obj\Debug\net6.0\ftw.AssemblyInfo.cs
+C:\Users\79243\Desktop\ftw\ftw\obj\Debug\net6.0\ftw.csproj.CoreCompileInputs.cache
+C:\Users\79243\Desktop\ftw\ftw\obj\Debug\net6.0\ftw.dll
+C:\Users\79243\Desktop\ftw\ftw\obj\Debug\net6.0\refint\ftw.dll
+C:\Users\79243\Desktop\ftw\ftw\obj\Debug\net6.0\ftw.pdb
+C:\Users\79243\Desktop\ftw\ftw\obj\Debug\net6.0\ftw.genruntimeconfig.cache
+C:\Users\79243\Desktop\ftw\ftw\obj\Debug\net6.0\ref\ftw.dll
